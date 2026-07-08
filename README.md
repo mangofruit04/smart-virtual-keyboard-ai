@@ -47,7 +47,7 @@ Smart-Virtual-Keyboard/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Smart-Virtual-Keyboard.git
+git clone https://github.com/mangofruit04/Smart-Virtual-Keyboard.git
 ```
 
 ### Navigate to the project folder
