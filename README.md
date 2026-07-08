@@ -98,17 +98,19 @@ pip install opencv-python cvzone mediapipe numpy
 
 ---
 
-## 📸 Demo
+## 📸 Screenshots
 
-Add screenshots or a GIF of your project here.
+### Virtual Keyboard Interface
 
-Example:
+![Virtual Keyboard](assets/Screenshot%202026-07-08%20155215.png)
 
-```
-assets/demo.gif
-```
+### Typing Using Hand Gestures
 
----
+![Typing](assets/Screenshot%202026-07-08%20155332.png)
+
+### Smart Word Suggestions
+
+![Word Suggestions](assets/Screenshot%202026-07-08%20155528.png)
 
 ## 🎯 Applications
 
